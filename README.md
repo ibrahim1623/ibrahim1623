@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Ibrahim. I am a thirdyear at UBC.
+### Hi there 👋 my name is Ibrahim. I am a third year at UBC.
 
 <!--
 **ibrahim1623/ibrahim1623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
